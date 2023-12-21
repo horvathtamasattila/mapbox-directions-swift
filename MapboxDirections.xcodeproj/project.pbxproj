@@ -2453,7 +2453,7 @@
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
 				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 4YLVBXRT45;
 				FRAMEWORK_SEARCH_PATHS = "$(inherited)";
 				INFOPLIST_FILE = "Directions Example/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 14.1;
@@ -2461,7 +2461,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.mapbox.Directions;
+				PRODUCT_BUNDLE_IDENTIFIER = com.mapbox.Directions.tier;
 				PRODUCT_MODULE_NAME = DirectionsExampleSwift;
 				PRODUCT_NAME = Example;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
@@ -2475,7 +2475,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 4YLVBXRT45;
 				FRAMEWORK_SEARCH_PATHS = "$(inherited)";
 				INFOPLIST_FILE = "Directions Example/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 14.1;
@@ -2483,7 +2483,7 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.mapbox.Directions;
+				PRODUCT_BUNDLE_IDENTIFIER = com.mapbox.Directions.tier;
 				PRODUCT_MODULE_NAME = DirectionsExampleSwift;
 				PRODUCT_NAME = Example;
 				SWIFT_SWIFT3_OBJC_INFERENCE = Off;
